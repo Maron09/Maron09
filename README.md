@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maron09
+- 👋 Hi, I’m @Maro
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development using python and django
 - 💞️ I’m looking to collaborate on projects involving python
